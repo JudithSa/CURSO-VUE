@@ -1,3 +1,4 @@
-Repositorio del curso de VUE
+# CURSO-VUE
+TRABAJOS DE LA CAPACITACION DE VUE
 
 Eli Judith Sanchez Garcia
